@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstAppKotlin</string>
+    <string name="tv_empty">Introdusca un texto</string>
+    <string name="tts_ready">Listo</string>
+    <string name="tts_disable">no disponible</string>
+    <string name="et_description_tts">escriba el texto</string>
+    <string name="bt_text">Play</string>
+    <string name="tv_description">Hello Kotlin fff</string>
+</resources>
